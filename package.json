@@ -1,0 +1,16 @@
+{
+  "name": "binary_search_mod",
+  "version": "1.0.1",
+  "description": "a utility package for binary search.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "binary",
+    "search"
+  ],
+  "author": "Kunal Mittal",
+  "license": "ISC"
+}
