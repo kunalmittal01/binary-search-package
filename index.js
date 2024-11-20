@@ -1,4 +1,4 @@
-const binarySearch = (ar,ele)=>{
+exports.binarySearch = (ar,ele)=>{
     let i = 0, j = ar.length -1; 
     while(i <= j) {
         
@@ -18,4 +18,3 @@ const binarySearch = (ar,ele)=>{
     return -1;
 }
 
-module.exports = binarySearch;
